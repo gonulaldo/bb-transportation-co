@@ -14,7 +14,7 @@ const BIZ = {
   name: "BB Transpo and Company",
   subtitle: "Transportation & Event Logistics",
   contactName: "Brandon Brodecki",
-  contactTitle: "Gangboss",
+  contactTitle: "Transportation Captain, Local 399",
   phone: "1 (310) 318-4022",
   phoneHref: "+13103184022",
   email: "brandonbrodecki@gmail.com",
