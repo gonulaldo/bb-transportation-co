@@ -1,0 +1,12 @@
+{
+  "name": "bb-transportation-co",
+  "version": "1.0.0",
+  "description": "B+B Transportation and Co website",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
